@@ -1,4 +1,4 @@
-# LeetCode 1004. Max Consecutive Ones III Medium Dynamic Window Expansion & Shrinking
+# LeetCode 1004 — Max Consecutive Ones III
 # solution
 
 
@@ -25,4 +25,3 @@ def longestOnes(nums, k):
 # nums = [1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0]
 # k = 2
 # output:6
-  

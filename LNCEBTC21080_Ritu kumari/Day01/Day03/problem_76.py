@@ -1,9 +1,8 @@
- # LeetCode 76.Minimum Window Substring
-# solution
+#LeetCode 76-Minimum Window Substring
+#solution
 
 
 from collections import Counter
-
 def minWindow(s, t):
     if not s or not t:
         return ""
@@ -44,4 +43,5 @@ def minWindow(s, t):
 # Example
 # s = "ADOBECODEBANC"
 # t = "ABC"
+
 # output:BANC
